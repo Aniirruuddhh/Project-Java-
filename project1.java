@@ -1,4 +1,4 @@
-```java
+
 class FoodItem {
 
     private String foodName;
@@ -71,4 +71,4 @@ public class project1 {
         System.out.println("Visit Again :)");
     }
 }
-```
+
